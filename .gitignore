@@ -1,0 +1,6 @@
+*.class
+*.tasty
+*.json
+/project
+/target
+
